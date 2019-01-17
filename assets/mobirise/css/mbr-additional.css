@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+
+
+#menu-2 .navbar-toggler {
+  color: #d5f4f0;
+}
+#menu-2 .navbar-brand {
+  font-family: 'Roboto Slab', serif;
+}
+#header1-3 H1 {
+  text-align: center;
+  color: #8f99af;
+  font-family: 'Indie Flower', cursive;
+  font-size: 80px;
+}
+#header1-3 P {
+  font-family: 'Indie Flower', cursive;
+  color: #8f99af;
+}
+
+#menu-9 .navbar-toggler {
+  color: #d5f4f0;
+}
+#menu-9 .navbar-brand {
+  font-family: 'Roboto Slab', serif;
+}
+#form1-b .mbr-section-title {
+  color: #8f99af;
+}
+
+#menu-d .navbar-toggler {
+  color: #d5f4f0;
+}
+#menu-d .navbar-brand {
+  font-family: 'Roboto Slab', serif;
+}
+#msg-box3-f .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-f .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
