@@ -56,7 +56,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"index.html#header1-3\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cris &amp; Alex</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html#header1-3\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cris &amp; Alex</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -113,7 +113,7 @@
             "P": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "color": "#8f99af"
+              "color": "#ffffff"
             },
             "I": {
               "color": "#ffffff"
@@ -235,7 +235,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"index.html#header1-3\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cris &amp; Alex</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html#header1-3\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cris &amp; Alex</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -343,7 +343,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"index.html#header1-3\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cris &amp; Alex</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html#header1-3\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cris &amp; Alex</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
