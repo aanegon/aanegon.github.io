@@ -105,7 +105,7 @@
           "_styles": {
             "H1": {
               "text-align": "center",
-              "color": "#8f99af",
+              "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "font-size": "80px"
@@ -114,6 +114,9 @@
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "color": "#8f99af"
+            },
+            "I": {
+              "color": "#ffffff"
             }
           }
         },

@@ -11,13 +11,16 @@
 }
 #header1-3 H1 {
   text-align: center;
-  color: #8f99af;
+  color: #ffffff;
   font-family: 'Indie Flower', cursive;
   font-size: 80px;
 }
 #header1-3 P {
   font-family: 'Indie Flower', cursive;
   color: #8f99af;
+}
+#header1-3 I {
+  color: #ffffff;
 }
 
 #menu-9 .navbar-toggler {
